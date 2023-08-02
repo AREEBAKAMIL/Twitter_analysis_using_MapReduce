@@ -10,7 +10,7 @@ The dataset consists of a line in each row, where each line contains 4 fields as
   2 tweet(including #hashtags)
   3 device
 
-# About the file
+# About the files
 As the name suggests, the 'tweets_per_day.py' contains code for extracting the number of tweets made per day.
 the 'no_of_hashtags_used.py' contains code for extracting the number of times each hashtag was used.
 
